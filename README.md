@@ -1,4 +1,5 @@
 # Flask 全国疫情分析实施监控
+[项目展示](https://www.bilibili.com/video/BV1UE411P7mv)  
 
 ## 一、下载python库
     更新pip：python -m pip install --upgrade pip
