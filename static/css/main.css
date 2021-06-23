@@ -1,0 +1,86 @@
+body{
+    background-color: #333;
+    margin: 0px;
+}
+#title{
+    height: 10%;
+    width: 40%;
+    position: absolute;
+    top: 0px;
+    left: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 40px;
+}
+#time{
+    height: 10%;
+    width: 30%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+#left1{
+    height: 45%;
+    width: 30%;
+    position: absolute;
+    left: 0;
+    top: 10%;
+}
+#left2{
+    height: 45%;
+    width: 30%;
+    position: absolute;
+    left: 0;
+    top: 55%;
+}
+#right1{
+    height: 45%;
+    width: 30%;
+    /*background-color: red;*/
+    position: absolute;
+    right: 0;
+    top: 10%;
+}
+#right2{
+    height: 45%;
+    width: 30%;
+    /*background-color: deeppink;*/
+    position: absolute;
+    right: 0;
+    top: 55%;
+}
+#center1{
+    height: 30%;
+    width: 40%;
+    /*background-color: gold;*/
+    position: absolute;
+    left:30%;
+    top: 10%;
+}
+#center2{
+    height: 60%;
+    width: 40%;
+    /*background-color: green;*/
+    position: absolute;
+    left:30%;
+    top: 40%;
+}
+.num{
+    float: left;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+}
+.num h1{
+    color: gold;
+}
+.num h2{
+    color: white;
+    font-family: 幼圆;
+}
